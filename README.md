@@ -27,8 +27,9 @@
 ### Step 1: Download Bore
 1. Go to the Bore releases page: https://github.com/ekzhang/bore/releases/latest
 2. Download the correct file:
-   - **Linux:** `bore-linux-amd64.tar.gz`
-   - **macOS:** `bore-darwin-amd64.tar.gz`
+   - **Linux:** `bore-vx.x.x-x86_64-unknown-linux-musl.tar.gz`
+   - **macOS (M-series Mac):** `bore-vx.x.x-aarch64-apple-darwin.tar.gz`
+   - **macOS (Intel Mac):** `bore-vx.x.x-x86_64-apple-darwin.tar.gz`
 3. Extract the archive and place `bore` in any folder.
 
 ### Step 2: Download the Shell Script
