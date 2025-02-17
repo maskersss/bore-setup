@@ -18,7 +18,7 @@
 ### Step 3: Run Bore
 1. Double-click `bore.bat`.
 2. A terminal window should open, running Bore.
-3. You should see `listening at bore.pub:xxxxx` at the last line, the `bore.pub:xxxxx` is the IP address you should give to the other person if you're playing Minecraft together.
+3. You should see `listening at bore.pub:xxxxx` at the end of last line, the `bore.pub:xxxxx` is the IP address you should give to the other person if you're playing Minecraft together.
 
 ---
 
@@ -49,4 +49,4 @@ chmod +x bore.sh
 ./bore.sh
 ```
 
-That's it! Now your local service is accessible online.
+That's it! You should see `listening at bore.pub:xxxxx` at the end of last line, the `bore.pub:xxxxx` is the IP address you should give to the other person if you're playing Minecraft together.
