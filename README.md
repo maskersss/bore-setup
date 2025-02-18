@@ -8,9 +8,8 @@
 3. Extract the `bore.exe` file to **any folder** you prefer.
 
 ### Step 2: Download the Batch File
-1. Go to https://raw.githubusercontent.com/maskersss/bore-setup/main/bore.bat
-2. **Right-click on the page** → Click **Save As**.
-3. Save it into **the same folder** where `bore.exe` is located.
+1. Download https://github.com/maskersss/bore-setup/releases/download/1.0.0/bore.bat.
+2. Save it into **the same folder** where `bore.exe` is located.
 
 > [!IMPORTANT]
 > Make sure `bore.bat` is in the **same folder** as `bore.exe`!
@@ -33,9 +32,8 @@
 3. Extract the archive and place `bore` in any folder.
 
 ### Step 2: Download the Shell Script
-1. Go to https://raw.githubusercontent.com/maskersss/bore-setup/main/bore.sh
-2. **Right-click on the page** → Click **Save As**.
-3. Save it in **the same folder** as `bore`.
+1. Download https://github.com/maskersss/bore-setup/releases/download/1.0.0/bore.sh.
+2. Save it in **the same folder** as `bore`.
 
 > [!IMPORTANT]
 > Make sure `bore.sh` is in the **same folder** as `bore`!
